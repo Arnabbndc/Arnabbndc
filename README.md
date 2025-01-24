@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I am Arnab Bhattacharjee, currently pursuing my **BSc degree in Computer Science & Engineering at Bangladesh University of Engineering and Technology (BUET)**.  
+I am Arnab Bhattacharjee, currently pursuing my **BSc degree in Computer Science & Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)**.  
 
 I’m currently exploring **Large Language Models (LLMs)**, **Machine Learning** and **Web Development**. I enjoy solving problems, building impactful solutions, and continuously learning new technologies.
 
@@ -8,9 +8,9 @@ I’m currently exploring **Large Language Models (LLMs)**, **Machine Learning**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbndc@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-bhattacharjee-3600b6340)   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/158oAGamUn/)   [![Codeforces](https://img.shields.io/badge/Codeforces-%23FF1B2D.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arnab_Bhattacharjee)   [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnabndc03)
 
----
-
 ## 🌐 Languages and Tools
+
+### **Programming Languages:**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,21 +20,30 @@ I’m currently exploring **Large Language Models (LLMs)**, **Machine Learning**
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### **Frontend:**
+
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+---
+
+### **Backend:**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
+
+---
+
+### **Database:**
 
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-%230066B8.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 

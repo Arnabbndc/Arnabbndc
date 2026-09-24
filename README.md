@@ -1,134 +1,89 @@
-# Hi there 👋  
+# Hi, I'm Arnab Bhattacharjee 👋
 
-I am Arnab Bhattacharjee, currently pursuing my **BSc degree in Computer Science & Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)**.  
+I am a **Lecturer** in the Department of Computer Science and Engineering at **[United International University (UIU)](https://www.uiu.ac.bd/)**, Dhaka, Bangladesh. I received my B.Sc. in Computer Science and Engineering from **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)** in 2025.
 
-I’m currently exploring **Large Language Models (LLMs)**, **Machine Learning** and **Web Development**. I enjoy solving problems, building impactful solutions, and continuously learning new technologies.
+My research is in **Human-Computer Interaction (HCI)**. I am interested in how people work with AI agents, and in building agentic systems that people can direct and trust. I am also interested in **agentic AI** and **systems** more broadly.
 
-## 🌐 Connect with Me
+📢 **I am looking for PhD opportunities in the USA starting in Fall 2027.**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbndc@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-bhattacharjee-3600b6340)   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/158oAGamUn/)   [![Codeforces](https://img.shields.io/badge/Codeforces-%23FF1B2D.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arnab_Bhattacharjee)   [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnabndc03)
-
-## 🌐 Languages and Tools
-
-### **Programming Languages:**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-arnabbndc.github.io-0b5cad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnabbndc.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://arnabbndc.github.io/cv/Arnab_Bhattacharjee_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbndc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-bhattacharjee-3600b6340)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnabndc03)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/158oAGamUn/)
 
 ---
 
-### **Frontend:**
+## Research
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Flowbite](https://img.shields.io/badge/Flowbite-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Human-AI Co-Creation for Technical Lecture Content** · *HCI, Human-AI Co-Creation, Agentic AI*<br>
+We investigated how computer science educators author technical lecture content with generative AI tools. In a formative study, we conducted semi-structured interviews with university educators and analyzed them using reflexive thematic analysis to identify their challenges and derive design goals. Guided by these goals, we built an agentic pipeline that generates technical lecture content under the educator's direction. We then conducted a qualitative user evaluation through focus group discussions (FGDs) with educators.
 
----
+**Language Effects on LLM Web Agents** · *LLM Agents, Web Agents, Multilingual Evaluation*<br>
+Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based LLM web agent across several widely spoken languages in two settings: a controlled offline benchmark in which the page structure stays fixed and only the language changes, and live task execution on real localized websites. Alongside task performance, we quantified how much of the agent's observation actually changes with the language. Performance stayed close to English even when most of the page text was rewritten, while non-English pages consumed a substantially larger share of the model's context budget.
 
-### **Backend:**
+**Undergraduate Thesis: Evaluating the Multilingual Capabilities of LLM-based Web UI Agent** · *BUET, 2024 - 2025, supervised by [Dr. Rifat Shahriyar](https://cse.buet.ac.bd/faculty/faculty_detail/rifat)*
+- Developed a multilingual web agent that navigates web pages and performs actions to complete complex, multi-step tasks given by a user.
+- Fine-tuned a multilingual model ([mT5-base](https://huggingface.co/google/mt5-base)) on an extended Mind2Web dataset to build a web agent.
+- Built web agents on three frontier LLMs (Gemini-2.0-Flash, GPT-4o-mini, and DeepSeek-V3) to evaluate their zero-shot performance.
+- Built a VLM-based automated evaluation system for web agents.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
----
-
-### **Database:**
-
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![OracleDB](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+**Poster:** Abir Muhtasim\*, **Arnab Bhattacharjee**\*, Abhik Bhattacharjee, Faria Huq, Rifat Shahriyar. *How well do LLM Web Agents work for non-English Language?* LLM Agent Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2, 2024. [Poster](https://drive.google.com/file/d/1Qk3qLlRr2KUrko5iIbacQJlCZv-mghYE/view) · [Extended Abstract](https://drive.google.com/file/d/1DgujFJPTuDN0nDbd2dZ-h3WkZgv5lOMr/view?usp=sharing) · [Workshop](https://cmu-agent-workshop.github.io/Previous_Schedule_2024/posters) (\*Equal contribution)
 
 ---
 
-## 🔨 Projects
+## Experience
 
-(Click on the project name to view the repository)
+- **Lecturer**, Department of CSE, United International University · *July 2025 - Present*
+- **Software Engineer**, Samsung Research and Development Institute, Bangladesh · *May 2025 - July 2025*<br>
+  Developed an Android application (Kotlin) for an intelligent pen that writes on any surface, with the strokes appearing on the Android device automatically.
 
-### [Buldr-Bangladesh](https://github.com/BuldrBangladesh)
+## Education
 
-- **Technologies:** React.js, SpringBoot, PostgreSQL, Tailwind CSS, Firebase (Auth)  
-- **Description:** A multi-purpose platform for engineers to **showcase, monetize, and enhance their skills.**  
-  - **Learning:** AI Chatbot, smart notes app, and AI tools for summarizing and paraphrasing text.  
-  - **Showcasing:** Create posts and display public projects for better visibility.  
-  - **Monetizing:** Marketplace for project sales, with order tracking and transaction management.  
-  - **Jobs:** Auto-generated portfolios and integrated public blogs.
+- **B.Sc. in Computer Science and Engineering**, BUET · *2020 - 2025* · CGPA 3.88 / 4.00 · Dean's List Scholarship
 
 ---
 
-### [Project Tokkhok](https://github.com/hyadess/Project-Tokkhok)
+## Projects
 
-- **Technologies:** React.js, FastAPI, PostgreSQL, Tailwind CSS, SQLAlchemy, Supabase (DB and Auth)  
-- **Description:** A platform designed for **Bengali-speaking students** featuring:  
-  - **Knowledge Base Chat:** Users can interact with uploaded knowledge bases (e.g., files) in Bangla, Banglish, or Audio.  
-  - **Smart Note Editor:** Create notes in Banglish, converted into proper Bangla using LLMs.  
-  - **Model Enhancer:** Continuously improves Banglish-to-Bangla translation models.
-
----
-
-### [Techworld](https://github.com/Arnabbndc/TECHWORLD)
-
-- **Technologies:** Node.js, Express.js, EJS, PostgreSQL, Oracle DB  
-- **Description:** An **e-commerce website** for selling PCs and accessories.  
-  - Key feature: **PC-BUILDER**, a custom PC-building tool.  
-  - Implements advanced database operations with SQL and PL/SQL programming.
+| Project | Description | Tech |
+|---|---|---|
+| [Gene Expression Restoration](https://github.com/Arnabbndc/Bioinformatics_Algorithms_Project) | Nonlinear models for finding the transcription factors that restore gene expression from a source cell state to a target state, extending the linear GAGER approach. | Python, ML |
+| [Project Tokkhok](https://github.com/hyadess/Project-Tokkhok) ([Demo](https://youtu.be/2UInbtVz1oE)) | AI-assisted learning platform for Bengali-speaking students. Chat with an uploaded knowledge base in Bangla, Banglish, or audio, and convert Banglish notes to proper Bangla. | React, FastAPI, PostgreSQL, Supabase, RAG |
+| [Buldr-Bangladesh](https://github.com/BuldrBangladesh) | Platform for engineers to learn with AI tools, showcase projects, sell projects in a marketplace, and get auto-generated portfolios. | React, Spring Boot, PostgreSQL, Firebase |
+| [Deepfake Image Detector](https://github.com/Arnabbndc/CSE-472-ML-Project) | Detector for real and AI-generated images, designed to be robust against adversarial attacks. Up to 80% accuracy on adversarial data. | PyTorch, ViT, YOLOv11 |
+| [TechWorld](https://github.com/Arnabbndc/TECHWORLD) | E-commerce website for PCs with complex SQL and PL/SQL operations and a PC-BUILDER feature. | Node.js, Express.js, PostgreSQL, Oracle |
 
 ---
 
-### [Deep Fake Image Detector](https://github.com/Arnabbndc/CSE-472-ML-Project)
+## Skills
 
-- **Technologies:** Python, PyTorch, YOLOv11  
-- **Description:** A robust image detector for classifying real and fake images under adversarial attacks.  
-  - **Black-Box Experiments:** Evaluated models like ViT and YOLOv11x on noisy datasets, achieving up to **80% accuracy**.  
-  - **White-Box Experiments:** Enhanced robustness using custom adversarial noise and dropout layers.
+**HCI Methods:** Semi-structured interviews, reflexive thematic analysis, focus group discussions, formative studies<br>
+**AI and LLMs:** Agentic LLM pipelines, RAG, LLM-as-judge evaluation, web agents, fine-tuning transformer models
 
----
-
-### [Machine Learning Assignments](https://github.com/Arnabbndc/CSE_472_ML)
-
-- **Technologies:** Python  
-- **Description:** Implemented a **Feed-Forward Neural Network (FNN)** for apparel classification with advanced features like:  
-  - Batch Normalization  
-  - Dropout  
-  - Adam Optimization  
-
-Additional assignments explored foundational concepts in Machine Learning.
-
----
-
-## 📜 Thesis
-
-**Topic:** Enabling Multilingual Interaction with User Interface  
-
-- **Objective:** Develop a multilingual web agent capable of performing complex multi-step tasks on web pages.  
-- **Research Areas:** LLM Agents, Human-Computer Interaction, UI Understanding, and Large Language Models (LLMs).  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Champion:** ITVerse 2023 *‘TechTales’ Project Showcase Competition* at Dhaka University.  
-- 🏅 **Finalist:** BUET CSE Fest *Capture the Flag (CTF) Competition 2023*.
+- **Champion**, ITVerse 2023 "TechTales" Project Showcase Competition, University of Dhaka
+- **Finalist**, BUET CSE Fest Capture the Flag (CTF) Competition 2023
+- **Dean's List Scholarship**, BUET (Level 1 and Level 2)
 
----
-
-## 🔥 GitHub Stats
-
-![Streak Stats](https://streak-stats.demolab.com/?user=Arnabbndc&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabbndc&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Arnabbndc&theme=darkhub)
-
----
-
-Feel free to explore my repositories and connect with me. Let’s collaborate on building impactful solutions! 😊
+<sub>Competitive programming: 600+ problems solved across platforms. Codeforces max rating 1519 ([hay_re_manosh](https://codeforces.com/profile/hay_re_manosh)).</sub>

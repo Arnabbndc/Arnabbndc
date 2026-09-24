@@ -4,8 +4,6 @@ I am a **Lecturer** in the Department of Computer Science and Engineering at **[
 
 My research is in **Human-Computer Interaction (HCI)**. I am interested in how people work with AI agents, and in building agentic systems that people can direct and trust. I am also interested in **agentic AI** and **systems** more broadly.
 
-📢 **I am looking for PhD opportunities in the USA starting in Fall 2027.**
-
 [![Website](https://img.shields.io/badge/Website-arnabbndc.github.io-0b5cad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnabbndc.github.io)
 [![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://arnabbndc.github.io/cv/Arnab_Bhattacharjee_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbndc@gmail.com)

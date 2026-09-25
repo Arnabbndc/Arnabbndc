@@ -26,8 +26,9 @@ Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based 
 - Fine-tuned a multilingual model ([mT5-base](https://huggingface.co/google/mt5-base)) on an extended Mind2Web dataset to build a web agent.
 - Built web agents on three frontier LLMs (Gemini-2.0-Flash, GPT-4o-mini, and DeepSeek-V3) to evaluate their zero-shot performance.
 - Built a VLM-based automated evaluation system for web agents.
+- [Extended abstract](https://drive.google.com/file/d/1DgujFJPTuDN0nDbd2dZ-h3WkZgv5lOMr/view?usp=sharing)
 
-**Poster:** Abir Muhtasim\*, **Arnab Bhattacharjee**\*, Abhik Bhattacharjee, Faria Huq, Rifat Shahriyar. *How well do LLM Web Agents work for non-English Language?* LLM Agent Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2, 2024. [Poster](https://drive.google.com/file/d/1Qk3qLlRr2KUrko5iIbacQJlCZv-mghYE/view) · [Extended Abstract](https://drive.google.com/file/d/1DgujFJPTuDN0nDbd2dZ-h3WkZgv5lOMr/view?usp=sharing) · [Workshop](https://cmu-agent-workshop.github.io/Previous_Schedule_2024/posters) (\*Equal contribution)
+**Poster:** Abir Muhtasim\*, **Arnab Bhattacharjee**\*, Abhik Bhattacharjee, Faria Huq, Rifat Shahriyar. *How well do LLM Web Agents work for non-English Language?* LLM Agent Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2, 2024. [Poster](https://drive.google.com/file/d/1Qk3qLlRr2KUrko5iIbacQJlCZv-mghYE/view) · [Workshop](https://cmu-agent-workshop.github.io/Previous_Schedule_2024/posters) (\*Equal contribution)
 
 ---
 

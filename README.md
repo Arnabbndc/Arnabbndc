@@ -83,6 +83,6 @@ Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based 
 
 - **Champion**, ITVerse 2023 "TechTales" Project Showcase Competition, University of Dhaka
 - **Finalist**, BUET CSE Fest Capture the Flag (CTF) Competition 2023
-- **Dean's List Scholarship**, BUET (Level 1 and Level 2)
+- **Dean's List Scholarship**, BUET (all four years)
 
 <sub>Competitive programming: 600+ problems solved across platforms. Codeforces max rating 1519 ([hay_re_manosh](https://codeforces.com/profile/hay_re_manosh)).</sub>

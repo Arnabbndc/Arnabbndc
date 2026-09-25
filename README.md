@@ -1,8 +1,8 @@
 # Hi, I'm Arnab Bhattacharjee 👋
 
-I am a **Lecturer** in the Department of Computer Science and Engineering at **[United International University (UIU)](https://cse.uiu.ac.bd/faculty/arnab-bhattacharjee/)** in Dhaka, Bangladesh. I am interested in working on **Human-Computer Interaction (HCI)**, **agentic AI**, **Computer Science Education (CSEd)**, and **systems**, with a focus on using agentic AI to solve real human and social problems.
+I am a **Lecturer** in the Department of Computer Science and Engineering at **[United International University (UIU)](https://cse.uiu.ac.bd/faculty/arnab-bhattacharjee/)** in Dhaka, Bangladesh. I am interested in working on **Human-Computer Interaction (HCI)**, **Agentic AI**, **Computer Science Education (CSEd)**, and **systems**, with a focus on using Agentic AI to solve real human and social problems.
 
-I listen to people's experiences, needs, and concerns, and turn them into the design of AI systems that people can direct and trust. My current work applies this to education, where I build agentic AI systems that help computer science educators create their lecture material. I received my B.Sc. in Computer Science and Engineering from **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)**.
+I listen to people's experiences, needs, and concerns, and turn them into the design of AI systems that people can direct and trust. My current work applies this to education, where I build Agentic AI systems that help computer science educators create their lecture material. I received my B.Sc. in Computer Science and Engineering from **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)**.
 
 [![Website](https://img.shields.io/badge/Website-arnabbndc.github.io-0b5cad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnabbndc.github.io)
 [![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://arnabbndc.github.io/cv/Arnab_Bhattacharjee_CV.pdf)

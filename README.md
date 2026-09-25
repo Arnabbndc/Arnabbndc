@@ -15,8 +15,11 @@ I listen to people's experiences, needs, and concerns, and turn them into the de
 
 ## Research
 
-**Human-AI Co-Creation for Technical Lecture Content** · *Current focus · HCI, Agentic AI, CS Education*<br>
+**Human-AI Co-Creation for Technical Lecture Content** · *HCI, Agentic AI, CS Education*<br>
 We investigated how computer science educators author technical lecture content with generative AI tools. In a formative study, we conducted semi-structured interviews with university educators and analyzed them using reflexive thematic analysis to identify their challenges and derive design goals. Guided by these goals, we built an agentic pipeline that generates technical lecture content under the educator's direction. We then conducted a qualitative user evaluation through focus group discussions (FGDs) with educators.
+
+**Language Effects on LLM Web Agents** · *LLM Agents, Web Agents, Multilingual Evaluation*<br>
+Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based LLM web agent across several widely spoken languages in two settings: a controlled offline benchmark in which the page structure stays fixed and only the language changes, and live task execution on real localized websites. Alongside task performance, we quantified how much of the agent's observation actually changes with the language. Performance stayed close to English even when most of the page text was rewritten, while non-English pages consumed a substantially larger share of the model's context budget.
 
 **Undergraduate Thesis: Evaluating the Multilingual Capabilities of LLM-based Web UI Agent** · *BUET, 2024 - 2025, supervised by [Dr. Rifat Shahriyar](https://cse.buet.ac.bd/faculty/faculty_detail/rifat)*
 - Developed a multilingual web agent that navigates web pages and performs actions to complete complex, multi-step tasks given by a user.
@@ -25,9 +28,6 @@ We investigated how computer science educators author technical lecture content 
 - Built a VLM-based automated evaluation system for web agents.
 
 **Poster:** Abir Muhtasim\*, **Arnab Bhattacharjee**\*, Abhik Bhattacharjee, Faria Huq, Rifat Shahriyar. *How well do LLM Web Agents work for non-English Language?* LLM Agent Workshop, Carnegie Mellon University, Pittsburgh, PA, USA. May 2, 2024. [Poster](https://drive.google.com/file/d/1Qk3qLlRr2KUrko5iIbacQJlCZv-mghYE/view) · [Extended Abstract](https://drive.google.com/file/d/1DgujFJPTuDN0nDbd2dZ-h3WkZgv5lOMr/view?usp=sharing) · [Workshop](https://cmu-agent-workshop.github.io/Previous_Schedule_2024/posters) (\*Equal contribution)
-
-**Language Effects on LLM Web Agents** · *LLM Agents, Web Agents, Multilingual Evaluation*<br>
-Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based LLM web agent across several widely spoken languages in two settings: a controlled offline benchmark in which the page structure stays fixed and only the language changes, and live task execution on real localized websites. Alongside task performance, we quantified how much of the agent's observation actually changes with the language. Performance stayed close to English even when most of the page text was rewritten, while non-English pages consumed a substantially larger share of the model's context budget.
 
 ---
 

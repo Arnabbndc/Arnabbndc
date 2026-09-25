@@ -15,7 +15,7 @@ I listen to people's experiences, needs, and concerns, and turn them into the de
 
 ## Research
 
-**Human-AI Co-Creation for Technical Lecture Content** · *HCI, Agentic AI, CS Education*<br>
+**Human-AI Co-Creation for Technical Lecture Content** · *HCI, Agentic AI, CS Education, Jan 2026 - Sep 2026*<br>
 We investigated how computer science educators author technical lecture content with generative AI tools. In a formative study, we conducted semi-structured interviews with university educators and analyzed them using reflexive thematic analysis to identify their challenges and derive design goals. Guided by these goals, we built an agentic pipeline that generates technical lecture content under the educator's direction. We then conducted a qualitative user evaluation through focus group discussions (FGDs) with educators.
 
 **Language Effects on LLM Web Agents** · *Pilot research project, extension of my undergraduate thesis, Jul 2026 - Sep 2026*<br>
@@ -40,7 +40,7 @@ Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based 
 
 ## Education
 
-- **B.Sc. in Computer Science and Engineering**, BUET · *2020 - 2025* · CGPA 3.88 / 4.00 · Dean's List Scholarship
+- **B.Sc. (Honours) in Computer Science and Engineering**, BUET · *2020 - 2025* · CGPA 3.88 / 4.00 · Dean's List Scholarship
 
 ---
 
@@ -81,8 +81,11 @@ Most benchmarks for LLM web agents are English-only. We evaluated an HTML-based 
 
 ## Achievements
 
-- **Champion**, ITVerse 2023 "TechTales" Project Showcase Competition, University of Dhaka
-- **Finalist**, BUET CSE Fest Capture the Flag (CTF) Competition 2023
 - **Dean's List Scholarship**, BUET (all four years)
+- **Champion**, ITVerse 2023 "TechTales" Project Showcase Competition, University of Dhaka · *2023*
+- **Finalist**, BUET CSE Fest Capture the Flag (CTF) Competition · *2023*
+- **Board General Scholarship**, Secondary School Certificate (SSC) Examination · *2017*
+- **Talent Pool Scholarship**, Junior School Certificate (JSC) Examination · *2014*
+- **Talent Pool Scholarship**, Primary School Certificate (PSC) Examination · *2011*
 
 <sub>Competitive programming: 600+ problems solved across platforms. Codeforces max rating 1519 ([hay_re_manosh](https://codeforces.com/profile/hay_re_manosh)).</sub>

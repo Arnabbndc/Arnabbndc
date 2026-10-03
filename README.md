@@ -7,7 +7,7 @@ I listen to people's experiences, needs, and concerns, and turn them into the de
 [![Website](https://img.shields.io/badge/Website-arnabbndc.github.io-0b5cad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnabbndc.github.io)
 [![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://arnabbndc.github.io/cv/Arnab_Bhattacharjee_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbndc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-bhattacharjee-3600b6340)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabbndc)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnabndc03)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/158oAGamUn/)
 
